@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">nihao</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">做得好！做得好！做得好！!</string>
+    <string name="buttonname">怎么回事？!</string> 
+    <string name="button3">登录a!</string>
+    <string name="but">NND!</string>
+
+</resources>
